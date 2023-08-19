@@ -493,9 +493,9 @@
               <licenseSet>
                 <header>kogito-build/kogito-build-no-bom-parent/license-header.txt</header>
                 <includes>
-                  <include>**/*.java</include>
                   <include>**/*.sh</include>
-                  <include>**/*.xml</include>
+                  <include>**/*.properties</include>
+                  <include>**/*.groovy</include>
                   <include>**/*.drl</include>
                 </includes>
                 <excludes>
